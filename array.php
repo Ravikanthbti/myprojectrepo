@@ -1,6 +1,7 @@
 <?php
 
 $colors=["red","green","blue",10,10.5];
+$colors=["red","green","blue",10,10.5];
 
 // echo "<pre>";
 // print_r($colors);
