@@ -20,5 +20,6 @@ foreach ($cd as $value) {
 	echo "<br>";
 }
 echo "welcome to the git show";
+echo "welcome to the git show";
 
 ?>
